@@ -1,15 +1,12 @@
-"Reason","Percentage of bites"
-"Respondentb","Researcher"
-"Protect territory","21.7","31.4"
-"Unsure","21.5","16.2"
-"Accident","14.2","16.0"
-"Dog afraid","8.2","9.0"
-"Dog in pain","5.7","6.6"
-"Protect person","3.4","5.3"
-"Play","4.5","5.1"
-"Protect item","3.2","2.6"
-"Protect puppies","1.9","1.9"
-"Other","15.7","6.0"
-"n","530","532"
-"a Rounding of percentages results in some column totals ≠ 100%"
-"b Not all respondents gave a reason for their bites but in two cases the researchers were able to use the respondent's description of events to give a likely reason for the bite"
+,Researcher,Respondent
+Protect territory,21.7,31.4
+Unsure,21.5,16.2
+Accident,14.2,16
+Dog afraid,8.2,9
+Dog in pain,5.7,6.6
+Protect person,3.4,5.3
+Play,4.5,5.1
+Protect item,3.2,2.6
+Protect puppies,1.9,1.9
+Other,15.7,6
+n,530,532
